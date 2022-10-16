@@ -1,4 +1,4 @@
-git workshop
-- Annu_Sonali
-feeling sleepy
-i have a melted chocolate yum yum yum
+This is my first Git Repository
+Name:- Annu Kumari
+Branch:- Electrical
+Collage Name:- MIT muzaffarpur
